@@ -14,7 +14,20 @@
 <body>
     <h1 class="heading">Rock Paper Scissors</h1>
     <div class="game-area">
-
+        <div id="results">
+            <p id="result-header">Online Game</p>
+            <p id="result-rule">You against the computer</p>
+        </div>
+        <div id="hands">
+            <div id="user-hand"><img src="assets/images/rock_left.png" alt="rock" data-type="rock"></div>
+            <div id="computer-hand"><img src="assets/images/rock_right.png" alt="rock" data-type="rock"></div>
+        </div>
+        <div id="controls">
+            <h2 id="controls-header">Make your choice:</h2>
+            <button data-type="rock">Rock</button>
+            <button data-type="paper">Paper</button>
+            <button data-type="scissors">Scissors</button>
+        </div>
     </div>
     <div class="score-area">
         <p class="scores">Won: <span id="won">0</span></p>
