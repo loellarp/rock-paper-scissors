@@ -3,6 +3,8 @@ body {
     font-family: "Roboto", sans-serif;
     color: #373D3F;
     text-align: center;
+    margin: 0;
+    min-width: 400px;
 }
 
 .heading {
@@ -136,4 +138,31 @@ button:hover {
     font-size: 1.1rem;
     font-weight: bold;
     padding: 0 15px;
+}
+
+/* Media queries */
+
+/* Screens 490px wide and below */
+
+@media (max-width: 490px) {
+    .heading {
+        font-size: 2rem;
+        margin: 25px auto;
+    }
+}
+
+/* Screens 400px wide and below */
+
+@media (max-width: 400px) {
+    body {
+        min-width: 340px;
+    }
+    .game-area {
+        width: 100vw;
+        min-width: 340px;
+    }
+    .score-area-outer {
+        width: 100vw;
+        min-width: 340px;
+    }
 }
