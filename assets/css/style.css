@@ -16,10 +16,11 @@ body {
 .game-area {
     background-color: #F5DEAE;
     box-sizing: border-box;
-    width: 80vw;
-    max-width: 800px;
-    height: 70vh;
-    max-height: 700px;
+    width: 60vw;
+    max-width: 600px;
+    height: 50vh;
+    max-height: 500px;
+    min-height: 420px;
     margin: 0 auto;
 }
 
@@ -49,7 +50,7 @@ body {
 
 img {
     width: 20vw;
-    max-width: 200px;
+    max-width: 160px;
 }
 
 #user-hand-outer {
@@ -78,4 +79,28 @@ img {
 
 .controls {
     clear: both;
+}
+
+h2 {
+    font-size: 1.2rem;
+    padding-top: 20px;
+}
+
+button {
+    width: 90px;
+    height: 35px;
+    font-family: "Roboto", sans-serif;
+    background-color: #D88CFA;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+    margin: 0 5px;
+}
+
+button:hover {
+    background-color: #8F3DB3;
+    color: white;
 }
