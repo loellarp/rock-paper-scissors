@@ -31,12 +31,51 @@ body {
 }
 
 #result-header {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     padding-bottom: 10px;
     margin: 0 auto;
 }
 
 #result-rule {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin: 0 auto;
+}
+
+.hands {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 20vw;
+    max-width: 200px;
+}
+
+#user-hand-outer {
+    float: left;
+    width: 50%;
+}
+
+#user-hand-inner {
+    float: right;
+    margin-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+#computer-hand-outer {
+    float: right;
+    width: 50%;
+}
+
+#computer-hand-inner {
+    float: left;
+    margin-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.controls {
+    clear: both;
 }

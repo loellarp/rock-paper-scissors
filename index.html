@@ -18,11 +18,15 @@
             <p id="result-header">Online Game</p>
             <p id="result-rule">You against the computer</p>
         </div>
-        <div id="hands">
-            <div id="user-hand"><img src="assets/images/rock_left.png" alt="rock" data-type="rock"></div>
-            <div id="computer-hand"><img src="assets/images/rock_right.png" alt="rock" data-type="rock"></div>
+        <div class="hands">
+            <div id="user-hand-outer">
+                <div id="user-hand-inner"><img src="assets/images/rock_left.png" alt="rock" data-type="rock"></div>
+            </div>
+            <div id="computer-hand-outer">
+                <div id="computer-hand-inner"><img src="assets/images/rock_right.png" alt="rock" data-type="rock"></div>
+            </div>
         </div>
-        <div id="controls">
+        <div class="controls">
             <h2 id="controls-header">Make your choice:</h2>
             <button data-type="rock">Rock</button>
             <button data-type="paper">Paper</button>
