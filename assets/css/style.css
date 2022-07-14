@@ -1,0 +1,42 @@
+body {
+    background-color: #8F3DB3;
+    font-family: "Roboto", sans-serif;
+    color: #373D3F;
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+    font-size: 2.6rem;
+    color: white;
+}
+
+/* Game area styling */
+
+.game-area {
+    background-color: #F5DEAE;
+    box-sizing: border-box;
+    width: 80vw;
+    max-width: 800px;
+    height: 70vh;
+    max-height: 700px;
+    margin: 0 auto;
+}
+
+.results {
+    margin-left: auto;
+    margin-left: auto;
+    padding: 30px 0;
+    font-weight: bold;
+}
+
+#result-header {
+    font-size: 1.8rem;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+
+#result-rule {
+    font-size: 1.4rem;
+    margin: 0 auto;
+}
