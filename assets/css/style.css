@@ -5,6 +5,7 @@ body {
     text-align: center;
     margin: 0;
     min-width: 400px;
+    box-sizing: border-box;
 }
 
 .heading {
@@ -155,14 +156,14 @@ button:hover {
 
 @media (max-width: 400px) {
     body {
-        min-width: 340px;
+        min-width: 370px;
     }
     .game-area {
-        width: 100vw;
+        width: 90vw;
         min-width: 340px;
     }
     .score-area-outer {
-        width: 100vw;
+        width: 90vw;
         min-width: 340px;
     }
 }
