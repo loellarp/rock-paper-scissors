@@ -104,3 +104,33 @@ button:hover {
     background-color: #8F3DB3;
     color: white;
 }
+
+/* Score area styling */
+
+.score-area-outer {
+    background-color: #89FAC5;
+    box-sizing: border-box;
+    width: 60vw;
+    max-width: 600px;
+    height: 70px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.score-area-inner {
+    margin: 0;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.score-area-inner p {
+    display: inline-block;
+    top: 50%;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 0 15px;
+}
