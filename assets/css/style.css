@@ -141,6 +141,13 @@ button:hover {
     padding: 0 15px;
 }
 
+footer {
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
 /* Media queries */
 
 /* Screens 490px wide and below */
