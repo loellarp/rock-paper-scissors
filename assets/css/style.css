@@ -1,5 +1,5 @@
 body {
-    background-color: #8F3DB3;
+    background-color: #653E85;
     font-family: "Roboto", sans-serif;
     color: #373D3F;
     text-align: center;
@@ -18,7 +18,7 @@ body {
 /* Game area styling */
 
 .game-area {
-    background-color: #F5DEAE;
+    background-color: #FADEB1;
     box-sizing: border-box;
     width: 60vw;
     max-width: 600px;
@@ -94,7 +94,7 @@ button {
     width: 90px;
     height: 35px;
     font-family: "Roboto", sans-serif;
-    background-color: #D88CFA;
+    background-color: #D9B5F7;
     font-size: 1.1rem;
     font-weight: bold;
     border-width: 2px;
@@ -105,14 +105,14 @@ button {
 }
 
 button:hover {
-    background-color: #8F3DB3;
+    background-color: #754899;
     color: white;
 }
 
 /* Score area styling */
 
 .score-area-outer {
-    background-color: #89FAC5;
+    background-color: #CBF5DB;
     box-sizing: border-box;
     width: 60vw;
     max-width: 600px;
@@ -145,6 +145,7 @@ footer {
     color: white;
     text-align: center;
     padding-top: 15px;
+    font-size: 0.8rem;
 }
 
 /* Media queries */
