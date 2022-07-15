@@ -68,29 +68,53 @@ function checkWinner() {
     if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "scissors") {
         result.textContent = "You won!";
         rule.textContent = "Rock beats scissors";
+        incrementWon();
     } else if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "paper") {
         result.textContent = "You lost!";
         rule.textContent = "Paper beats rock";
+        incrementLost();
     } else if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "rock") {
         result.textContent = "It's a draw!";
         rule.textContent = "Try again";
+        incrementDraw();
     } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "rock") {
         result.textContent = "You won!";
         rule.textContent = "Paper beats rock";
+        incrementWon();
     } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "scissors") {
         result.textContent = "You lost!";
         rule.textContent = "Scissors beats paper";
+        incrementLost();
     } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "paper") {
         result.textContent = "It's a draw!";
         rule.textContent = "Try again";
+        incrementDraw();
     } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "paper") {
         result.textContent = "You won!";
         rule.textContent = "Scissors beats paper";
+        incrementWon();
     } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "rock") {
         result = "You lost!";
         rule = "Rock beats scissors";
+        incrementLost();
     } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "scissors") {
         result.textContent = "It's a draw!";
         rule.textContent = "Try again";
+        incrementDraw();
     }
+}
+
+function incrementWon() {
+    let score = parseInt(document.getElementById("won").textContent);
+    document.getElementById("won").textContent = ++score;
+}
+
+function incrementLost() {
+    let score = parseInt(document.getElementById("lost").textContent);
+    document.getElementById("lost").textContent = ++score;
+}
+
+function incrementDraw() {
+    let score = parseInt(document.getElementById("draw").textContent);
+    document.getElementById("draw").textContent = ++score;
 }
