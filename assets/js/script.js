@@ -36,23 +36,61 @@ function runGame(dataType) {
 
     //Change user hand image based on button clicked
     if (dataType === "rock") {
-        userHand.innerHTML = '<img src="assets/images/rock_left.png" alt="Rock" data-type="rock">';
+        userHand.innerHTML = '<img id="user-hand" src="assets/images/rock_left.png" alt="Rock" data-type="rock">';
     } else if (dataType === "paper") {
-        userHand.innerHTML = '<img src="assets/images/paper_left.png" alt="Paper" data-type="paper">';
+        userHand.innerHTML = '<img id="user-hand" src="assets/images/paper_left.png" alt="Paper" data-type="paper">';
     } else if (dataType === "scissors") {
-        userHand.innerHTML = '<img src="assets/images/scissors_left.png" alt="Scissors" data-type="scissors">';
+        userHand.innerHTML = '<img id="user-hand" src="assets/images/scissors_left.png" alt="Scissors" data-type="scissors">';
     } else {
         alert(`Unknown choice: ${dataType}`);
     }    
 
     //Change computer hand image based on random computer choice
     if (computerChoice === "rock") {
-        computerHand.innerHTML = '<img src="assets/images/rock_right.png" alt="Rock" data-type="rock">';
+        computerHand.innerHTML = '<img id="computer-hand" src="assets/images/rock_right.png" alt="Rock" data-type="rock">';
     } else if (computerChoice === "paper") {
-        computerHand.innerHTML = '<img src="assets/images/paper_right.png" alt="Paper" data-type="paper">';
+        computerHand.innerHTML = '<img id="computer-hand" src="assets/images/paper_right.png" alt="Paper" data-type="paper">';
     } else if (computerChoice === "scissors") {
-        computerHand.innerHTML = '<img src="assets/images/scissors_right.png" alt="Scissors" data-type="scissors">';
+        computerHand.innerHTML = '<img id="computer-hand" src="assets/images/scissors_right.png" alt="Scissors" data-type="scissors">';
     } else {
         alert(`Unknown choice: ${computerChoice}`);
+    }
+
+    checkWinner();
+}
+
+function checkWinner() {
+    let userImage = document.getElementById("user-hand");
+    let computerImage = document.getElementById("computer-hand");
+    let result = document.getElementById("result-header");
+    let rule = document.getElementById("result-rule");
+
+    if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "scissors") {
+        result.textContent = "You won!";
+        rule.textContent = "Rock beats scissors";
+    } else if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "paper") {
+        result.textContent = "You lost!";
+        rule.textContent = "Paper beats rock";
+    } else if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "rock") {
+        result.textContent = "It's a draw!";
+        rule.textContent = "Try again";
+    } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "rock") {
+        result.textContent = "You won!";
+        rule.textContent = "Paper beats rock";
+    } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "scissors") {
+        result.textContent = "You lost!";
+        rule.textContent = "Scissors beats paper";
+    } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "paper") {
+        result.textContent = "It's a draw!";
+        rule.textContent = "Try again";
+    } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "paper") {
+        result.textContent = "You won!";
+        rule.textContent = "Scissors beats paper";
+    } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "rock") {
+        result = "You lost!";
+        rule = "Rock beats scissors";
+    } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "scissors") {
+        result.textContent = "It's a draw!";
+        rule.textContent = "Try again";
     }
 }
