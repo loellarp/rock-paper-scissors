@@ -23,6 +23,19 @@ function runGame(dataType) {
     } else if (num === 3) {
         computerChoice = "scissors";
     } else {
-        alert(`Unknown num: ${num}`)
+        alert(`Unknown num: ${num}`);
     }
+
+    let userHand = document.getElementById("user-hand-inner");
+    let computerHand = document.getElementById("computer-hand-inner");
+
+    if (dataType === "rock") {
+        userHand.innerHTML = '<img src="assets/images/rock_left.png" alt="Rock" data-type="rock">';
+    } else if (dataType === "paper") {
+        userHand.innerHTML = '<img src="assets/images/paper_left.png" alt="Paper" data-type="paper">';
+    } else if (dataType === "scissors") {
+        userHand.innerHTML = '<img src="assets/images/scissors_left.png" alt="Scissors" data-type="scissors">';
+    } else {
+        alert(`Unknown choice: ${dataType}`);
+    }    
 }
