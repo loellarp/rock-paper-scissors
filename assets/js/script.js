@@ -11,8 +11,13 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
 })
-
+/**
+ * Main game function, called when content is loaded and user has made a choice.
+ * Generates random computer choice and changes the user and computer hands based on choices 
+ */
 function runGame(dataType) {
+    
+    //Generate random computer choice
     let num = Math.floor(Math.random() * 3) + 1;
     let computerChoice;
 
@@ -29,6 +34,7 @@ function runGame(dataType) {
     let userHand = document.getElementById("user-hand-inner");
     let computerHand = document.getElementById("computer-hand-inner");
 
+    //Change user hand image based on button clicked
     if (dataType === "rock") {
         userHand.innerHTML = '<img src="assets/images/rock_left.png" alt="Rock" data-type="rock">';
     } else if (dataType === "paper") {
@@ -39,6 +45,7 @@ function runGame(dataType) {
         alert(`Unknown choice: ${dataType}`);
     }    
 
+    //Change computer hand image based on random computer choice
     if (computerChoice === "rock") {
         computerHand.innerHTML = '<img src="assets/images/rock_right.png" alt="Rock" data-type="rock">';
     } else if (computerChoice === "paper") {
