@@ -38,4 +38,14 @@ function runGame(dataType) {
     } else {
         alert(`Unknown choice: ${dataType}`);
     }    
+
+    if (computerChoice === "rock") {
+        computerHand.innerHTML = '<img src="assets/images/rock_right.png" alt="Rock" data-type="rock">';
+    } else if (computerChoice === "paper") {
+        computerHand.innerHTML = '<img src="assets/images/paper_right.png" alt="Paper" data-type="paper">';
+    } else if (computerChoice === "scissors") {
+        computerHand.innerHTML = '<img src="assets/images/scissors_right.png" alt="Scissors" data-type="scissors">';
+    } else {
+        alert(`Unknown choice: ${computerChoice}`);
+    }
 }
