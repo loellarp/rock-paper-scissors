@@ -11,7 +11,28 @@ Summary text
 
 # Table of contents
 
-->Insert table of contents
+- [UX](#ux)
+    - [Website owner business goals](#website-owner-business-goals)
+    - [User goals](#user-goals)
+        - [New user goals](#new-user-goals)
+        - [Returning user goals](#returning-user-goals)
+        - [Website owner business goals](#website-owner-business-goals)
+    - [User stories](#user-stories)
+    - [Structure of the website](#structure-of-the-website)
+    - [Wireframes](#wireframes)
+    - [Surface](#surface)
+- [Features](#features)
+- [Technology](#technology)
+- [Testing](#testing)
+    - [Functionality testing](#functionality-testing)
+    - [Compatibility testing](#compatibility-testing)
+    - [Code Validation](#code-validation)
+    - [User stories testing](#user-stories-testing)
+    - [Issues found during site development](#issues-found-during-site-development)
+    - [Performance testing](#performance-testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+- [Screenshots](#screenshots)
 
 # UX
 
@@ -239,7 +260,7 @@ ___
 ### Images
 
 * [clipart211491.png](https://www.clipartmax.com/so/rock-paper-scissors-clipart/)
-* ->Potentiallt background image
+* -> Potentially background image
 
 [Back to Table of Contents](#table-of-contents)
 ___
