@@ -55,8 +55,15 @@ body {
 }
 
 .hands-area {
-    width: 80%;
+    width: 320px;
     margin: 10px auto;
+}
+
+.hand-header {
+    color: #D814AB;
+    font-size: 1.3rem;
+    margin-block-start: 0.8em;
+    margin-block-end: 0.8em;
 }
 
 .hands {
