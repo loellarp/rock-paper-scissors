@@ -59,10 +59,22 @@ body {
 }
 
 .hands {
-    width: 20vw;
-    max-width: 180px;
-    min-width: 120px;
+    display: inline-block;
+    vertical-align: bottom;
 }
+
+.rock-imgs {
+    width: 81px;
+}
+
+.paper-imgs {
+    width: 110px;
+}
+
+.scissors-imgs {
+    width: 107px;
+}
+
 
 #user-hand-outer {
     float: left;
@@ -72,8 +84,8 @@ body {
 #user-hand-inner {
     float: right;
     margin-right: 20px;
-    padding-top: 15px;
-    padding-bottom: 20px;
+    height: 90px;
+    display: table-cell;
 }
 
 #computer-hand-outer {
@@ -84,8 +96,8 @@ body {
 #computer-hand-inner {
     float: left;
     margin-left: 20px;
-    padding-top: 15px;
-    padding-bottom: 20px;
+    height: 90px;
+    display: table-cell;
 }
 
 .controls {
