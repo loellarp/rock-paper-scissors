@@ -2,7 +2,8 @@ body {
     background-image: url("../images/background-image.png");
     background-color: #653E85;
     background-size: contain;
-    font-family: "Roboto", sans-serif;
+    font-family: "VT323", sans-serif;
+    letter-spacing: 0.5px;
     color: #373D3F;
     text-align: center;
     margin: 0;
@@ -98,16 +99,17 @@ h2 {
 }
 
 button {
-    width: 90px;
+    width: 94px;
     height: 35px;
-    font-family: "Roboto", sans-serif;
-    background-color: #D9B5F7;
-    font-size: 1.1rem;
+    font-family: "VT323", sans-serif;
+    letter-spacing: 1px;
+    background-color: #A7FFC5;
+    font-size: 1.3rem;
     font-weight: bold;
-    border-width: 2px;
+    border-width: 4px;
     border-style: solid;
     border-radius: 2px;
-    border-color: black;
+    border-color: #D814AB;
     margin: 0 5px;
 }
 
