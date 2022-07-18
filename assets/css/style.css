@@ -1,5 +1,7 @@
 body {
+    background-image: url("../images/background-image.png");
     background-color: #653E85;
+    background-size: contain;
     font-family: "Roboto", sans-serif;
     color: #373D3F;
     text-align: center;
