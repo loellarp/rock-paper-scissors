@@ -12,9 +12,11 @@ body {
 
 .heading {
     text-align: center;
-    font-size: 2.6rem;
-    color: white;
-    margin: 35px auto;
+    margin: 30px auto 20px;
+}
+
+#logo {
+    height: 200px;
 }
 
 /* Game area styling */
@@ -47,12 +49,12 @@ body {
     margin: 0 auto;
 }
 
-.hands {
+.hands-area {
     width: 80%;
     margin: 10px auto;
 }
 
-img {
+.hands {
     width: 20vw;
     max-width: 180px;
     min-width: 120px;
