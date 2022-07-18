@@ -36,22 +36,22 @@ function runGame(dataType) {
 
     //Change user hand image based on button clicked
     if (dataType === "rock") {
-        userHand.innerHTML = '<img class="hands" id="user-hand" src="assets/images/rock_left.png" alt="Rock" data-type="rock">';
+        userHand.innerHTML = '<img class="hands rock-imgs" id="user-hand" src="assets/images/rock-left.svg" alt="Rock" data-type="rock">';
     } else if (dataType === "paper") {
-        userHand.innerHTML = '<img class="hands" id="user-hand" src="assets/images/paper_left.png" alt="Paper" data-type="paper">';
+        userHand.innerHTML = '<img class="hands paper-imgs" id="user-hand" src="assets/images/paper-left.svg" alt="Paper" data-type="paper">';
     } else if (dataType === "scissors") {
-        userHand.innerHTML = '<img class="hands" id="user-hand" src="assets/images/scissors_left.png" alt="Scissors" data-type="scissors">';
+        userHand.innerHTML = '<img class="hands scissors-imgs" id="user-hand" src="assets/images/scissors-left.svg" alt="Scissors" data-type="scissors">';
     } else {
         alert(`Unknown choice: ${dataType}`);
     }    
 
     //Change computer hand image based on random computer choice
     if (computerChoice === "rock") {
-        computerHand.innerHTML = '<img class="hands" id="computer-hand" src="assets/images/rock_right.png" alt="Rock" data-type="rock">';
+        computerHand.innerHTML = '<img class="hands rock-imgs" id="computer-hand" src="assets/images/rock-right.svg" alt="Rock" data-type="rock">';
     } else if (computerChoice === "paper") {
-        computerHand.innerHTML = '<img class="hands" id="computer-hand" src="assets/images/paper_right.png" alt="Paper" data-type="paper">';
+        computerHand.innerHTML = '<img class="hands paper-imgs" id="computer-hand" src="assets/images/paper-right.svg" alt="Paper" data-type="paper">';
     } else if (computerChoice === "scissors") {
-        computerHand.innerHTML = '<img class="hands" id="computer-hand" src="assets/images/scissors_right.png" alt="Scissors" data-type="scissors">';
+        computerHand.innerHTML = '<img class="hands scissors-imgs" id="computer-hand" src="assets/images/scissors-right.svg" alt="Scissors" data-type="scissors">';
     } else {
         alert(`Unknown choice: ${computerChoice}`);
     }

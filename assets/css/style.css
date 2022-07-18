@@ -22,7 +22,8 @@ body {
 /* Game area styling */
 
 .game-area {
-    background-color: #FADEB1;
+    background-color: #A7FFC5;
+    border: 4px solid #000000;
     box-sizing: border-box;
     width: 60vw;
     max-width: 600px;
