@@ -23,7 +23,9 @@ body {
 
 .game-area {
     background-color: #A7FFC5;
-    border: 4px solid #000000;
+    border-top: 4px solid #000000;
+    border-left: 4px solid #000000;
+    border-right: 4px solid #000000;
     box-sizing: border-box;
     width: 60vw;
     max-width: 600px;
@@ -122,21 +124,23 @@ button:hover {
     width: 60vw;
     max-width: 600px;
     min-width: 400px;
-    height: 70px;
+    height: 80px;
     margin: 0 auto;
     position: relative;
+    border: 4px solid transparent;
+    box-shadow: inset 0 0 0 4px #D814AB;
 }
 
 .score-area-inner {
     margin: 4px;
-    border: 4px solid #D814AB;
     position: absolute;
-    width: 96%;
-    height: 96%;
-    /*top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);*/
-
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .score-area-inner p {
