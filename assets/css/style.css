@@ -1,7 +1,8 @@
 body {
     background-image: url("../images/background-image.png");
     background-color: #653E85;
-    background-size: contain;
+    background-size: cover;
+    min-height: 100%;
     font-family: "VT323", sans-serif;
     letter-spacing: 0.5px;
     color: #373D3F;
@@ -81,8 +82,6 @@ body {
 }
 
 #user-hand-inner {
-    float: right;
-    margin-right: 20px;
     height: 90px;
     display: inline-block;
     vertical-align: bottom;
@@ -94,8 +93,6 @@ body {
 }
 
 #computer-hand-inner {
-    float: left;
-    margin-left: 20px;
     height: 90px;
     display: inline-block;
     vertical-align: bottom;
@@ -105,7 +102,7 @@ body {
     clear: both;
 }
 
-h3 {
+#controls-header {
     font-size: 1.3rem;
     padding-top: 40px;
     margin-block-end: 0.5em;
