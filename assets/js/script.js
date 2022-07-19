@@ -15,9 +15,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 runGame(dataType);
                 console.log(dataType);
             }
-        })
+        });
     }
-})
+});
 
 /* Display game content in game area when start game button is clicked */
 function openGame() {
@@ -82,39 +82,39 @@ function checkWinner() {
     let rule = document.getElementById("result-rule");
 
     if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "scissors") {
-        result.textContent = "You won!";
+        result.textContent = "YOU WON!";
         rule.textContent = "Rock beats scissors";
         incrementWon();
     } else if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "paper") {
-        result.textContent = "You lost!";
+        result.textContent = "YOU LOST";
         rule.textContent = "Paper beats rock";
         incrementLost();
     } else if (userImage.getAttribute("data-type") === "rock" && computerImage.getAttribute("data-type") === "rock") {
-        result.textContent = "It's a draw!";
+        result.textContent = "IT'S A DRAW";
         rule.textContent = "Try again";
         incrementDraw();
     } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "rock") {
-        result.textContent = "You won!";
+        result.textContent = "YOU WON!";
         rule.textContent = "Paper beats rock";
         incrementWon();
     } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "scissors") {
-        result.textContent = "You lost!";
+        result.textContent = "YOU LOST";
         rule.textContent = "Scissors beats paper";
         incrementLost();
     } else if (userImage.getAttribute("data-type") === "paper" && computerImage.getAttribute("data-type") === "paper") {
-        result.textContent = "It's a draw!";
+        result.textContent = "IT'S A DRAW";
         rule.textContent = "Try again";
         incrementDraw();
     } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "paper") {
-        result.textContent = "You won!";
+        result.textContent = "YOU WON!";
         rule.textContent = "Scissors beats paper";
         incrementWon();
     } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "rock") {
-        result = "You lost!";
+        result = "YOU LOST";
         rule = "Rock beats scissors";
         incrementLost();
     } else if (userImage.getAttribute("data-type") === "scissors" && computerImage.getAttribute("data-type") === "scissors") {
-        result.textContent = "It's a draw!";
+        result.textContent = "IT'S A DRAW";
         rule.textContent = "Try again";
         incrementDraw();
     }
