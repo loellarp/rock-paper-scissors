@@ -17,6 +17,35 @@ document.addEventListener("DOMContentLoaded", function() {
 
 })
 
+/* Display game content in game area when clicked on start game button */
+function openGame() {
+    let gameArea = document.getElementsByClassName("game-area");
+    gameArea.innerHTML = `<div class="results">
+    <p id="result-header">YOU LOST</p>
+    <p id="result-rule">Paper beats rock</p>
+</div>
+<div class="hands-area">
+    <div id="user-hand-outer">
+        <h3 class="hand-header">YOU</h3>
+        <div id="user-hand-inner">
+            <img class="hands rock-imgs" id="user-hand" src="assets/images/rock-left.svg" alt="rock" data-type="rock">
+        </div>
+    </div>
+    <div id="computer-hand-outer">
+        <h3 class="hand-header">COMPUTER</h3>
+        <div id="computer-hand-inner">
+            <img class="hands paper-imgs" id="computer-hand" src="assets/images/paper-right.svg" alt="rock" data-type="rock">
+        </div>
+    </div>
+</div>
+<div class="controls">
+    <h3 id="controls-header">CHOOSE YOUR WEAPON:</h2>
+    <button data-type="rock">ROCK</button>
+    <button data-type="paper">PAPER</button>
+    <button data-type="scissors">SCISSORS</button>
+</div>`;
+}
+
 /* 
 <div class="results">
             <p id="result-header">YOU LOST</p>
@@ -74,8 +103,6 @@ function runGame(dataType) {
         userHand.innerHTML = '<img class="hands paper-imgs" id="user-hand" src="assets/images/paper-left.svg" alt="Paper" data-type="paper">';
     } else if (dataType === "scissors") {
         userHand.innerHTML = '<img class="hands scissors-imgs" id="user-hand" src="assets/images/scissors-left.svg" alt="Scissors" data-type="scissors">';
-    } else {
-        alert(`Unknown choice: ${dataType}`);
     }    
 
     //Change computer hand image based on random computer choice

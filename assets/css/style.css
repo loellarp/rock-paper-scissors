@@ -23,7 +23,7 @@ body {
     min-width: 130px;
 }
 
-/* Game area styling */
+/* Game area global styling for intro content */
 
 .game-area {
     background-color: #A7FFC5;
@@ -37,6 +37,50 @@ body {
     height: 400px;
     margin: 0 auto;
 }
+
+/* Game area styling for intro content */
+
+.welcome-rules {
+    margin: 20px auto 10px;
+    padding: 22px 15px;
+    font-weight: bold;
+    width: 210px;
+    background-color: #F6FFA9;
+}
+
+#welcome-header {
+    font-size: 1.4rem;
+    padding-bottom: 2px;
+    margin: 0 auto;
+}
+
+#welcome-text {
+    font-size: 1.2rem;
+    margin: 0 auto;
+}
+
+#rules-header {
+    font-size: 1.3rem;
+    padding-bottom: 2px;
+    padding-top: 15px;
+    margin: 0 auto;
+    color: #D814AB;
+}
+
+#rules-text {
+    font-size: 1.2rem;
+    margin: 0 auto;
+}
+
+.start-btn-area {
+    padding-top: 20px;
+}
+
+#start-btn {
+    width: 122px;
+}
+
+/* Game area styling for game content */
 
 .results {
     margin: 30px auto 12px;
@@ -217,6 +261,12 @@ footer {
         height: 360px;
     }
 
+    /* Responsive styling intro screen */
+    .start-btn-area {
+        padding-top: 10px;
+    }
+
+    /* Responsive styling game screen */
     .results {
         margin: 26px auto 12px;
     }
@@ -237,6 +287,37 @@ footer {
         height: 325px;
     }
 
+    /* Responsive styling intro screen */
+    .welcome-rules {
+        margin: 10px auto 10px;
+        padding: 15px 15px;
+    }
+
+    #rules-header {
+        padding-top: 15px;
+    }
+
+    #welcome-header {
+        font-size: 1.3rem;
+    }
+
+    #welcome-text {
+        font-size: 1.1rem;
+    }
+
+    #rules-header {
+        font-size: 1.2rem;
+    }
+
+    #rules-text {
+        font-size: 1.1rem;
+    }
+    
+    .start-btn-area {
+        padding-top: 10px;
+    }
+
+    /* Responsive styling game screen */
     .results {
         margin: 20px auto 8px;
     }
@@ -250,6 +331,17 @@ footer {
         font-size: 1.30rem;
         margin-block-end: 0.5em;
         padding-top: 10px;
+    }
+
+    /* Responsive styling score area */
+    #score-header {
+        font-size: 1.5rem;
+        margin-block-start: 0.5em;
+    }
+
+    .score-area-inner p {
+        font-size: 1.2rem;
+        font-weight: 200;
     }
 }
 
