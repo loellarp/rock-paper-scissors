@@ -233,20 +233,20 @@ button:active {
     margin-block-end: 0.5em;
 }
 
+/* Footer area */
 footer {
-    width: 100%;
-    
+    width: 100%;    
 }
 
 #footer-inner {
     color: black;
     background-color: rgb(167, 255, 197, .6);
-    width: 230px;
+    width: 250px;
     margin: 0 auto;
     text-align: center;
     padding-top: 3px;
     padding-bottom: 3px;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 /* Media queries */
