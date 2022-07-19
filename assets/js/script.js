@@ -5,10 +5,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
     for (let button of buttons) {
         button.addEventListener("click", function() {
+            console.log(this)
             let dataType = this.getAttribute("data-type");
             
             if (dataType === "start-game") {
                 openGame();
+                console.log('openGame')
             } else {
                 runGame(dataType);
             }
@@ -20,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
 /* Display game content in game area when clicked on start game button */
 function openGame() {
     let gameArea = document.getElementsByClassName("game-area");
-    gameArea.innerHTML = `<div class="results">
+    gameArea[0].innerHTML = `<div class="results">
     <p id="result-header">YOU LOST</p>
     <p id="result-rule">Paper beats rock</p>
 </div>
