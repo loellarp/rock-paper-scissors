@@ -6,7 +6,12 @@ document.addEventListener("DOMContentLoaded", function() {
     for (let button of buttons) {
         button.addEventListener("click", function() {
             let dataType = this.getAttribute("data-type");
-            runGame(dataType);
+            
+            if (dataType === "start-game") {
+                openGame();
+            } else {
+                runGame(dataType);
+            }
         })
     }
 
