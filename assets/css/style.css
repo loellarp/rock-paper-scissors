@@ -203,7 +203,7 @@ footer {
 
 @media (max-height: 745px) {
     .heading {
-        margin: 20px auto 10px;
+        margin: 15px auto 5px;
     }
     .game-area {
         height: 360px;
@@ -245,6 +245,26 @@ footer {
     }
 }
 
+/* Screens 610px high and below */
+
+@media (max-height: 610px) {
+    .game-area {
+        height: 305px;
+    }
+
+    .results {
+        margin: 14px auto 8px;
+    }
+
+    .score-area {
+        height: 85px;
+    }
+
+    #score-header {
+        margin-block-end: 0.15em;
+    }
+}
+
 /* Screens 490px wide and below */
 
 @media (max-width: 490px) {
@@ -268,6 +288,11 @@ footer {
         min-width: 320px;
     }
     .game-area {
+        width: 90vw;
+        min-width: 310px;
+    }
+
+    .score-area {
         width: 90vw;
         min-width: 310px;
     }
