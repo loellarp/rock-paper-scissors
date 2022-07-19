@@ -24,7 +24,7 @@ function openGame() {
     let gameArea = document.getElementsByClassName("game-area");
     gameArea[0].innerHTML = `<div class="results">
     <p id="result-header">LET'S GO</p>
-    <p id="result-rule">Choose your weapon</p>
+    <p id="result-rule">Choose your weapon below</p>
 </div>
 <div class="hands-area">
     <div id="user-hand-outer">
