@@ -23,7 +23,7 @@ body {
     min-width: 130px;
 }
 
-/* Game area global styling for intro content */
+/* Game area global styling */
 
 .game-area {
     background-color: #A7FFC5;
@@ -36,6 +36,14 @@ body {
     min-width: 400px;
     height: 400px;
     margin: 0 auto;
+}
+
+.show-div {
+    display: block;
+}
+
+.hide-div {
+    display: none;
 }
 
 /* Game area styling for intro content */
