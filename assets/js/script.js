@@ -5,21 +5,21 @@ document.addEventListener("DOMContentLoaded", function() {
 
     for (let button of buttons) {
         button.addEventListener("click", function() {
-            console.log(this)
+            console.log(this);
             let dataType = this.getAttribute("data-type");
             
             if (dataType === "start-game") {
                 openGame();
-                console.log('openGame')
-            } else {
+                console.log('openGame');
+            } else if (dataType !== "start-game") {
                 runGame(dataType);
+                console.log(dataType);
             }
         })
     }
-
 })
 
-/* Display game content in game area when clicked on start game button */
+/* Display game content in game area when start game button is clicked */
 function openGame() {
     let gameArea = document.getElementsByClassName("game-area");
     gameArea[0].innerHTML = `<div class="results">
