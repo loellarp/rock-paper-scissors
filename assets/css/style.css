@@ -191,9 +191,17 @@ button:active {
 
 footer {
     width: 100%;
-    color: white;
+    
+}
+
+#footer-inner {
+    color: black;
+    background-color: rgb(167, 255, 197, .6);
+    width: 230px;
+    margin: 0 auto;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
     font-size: 0.8rem;
 }
 
