@@ -46,33 +46,6 @@ function openGame() {
 </div>`;
 }
 
-/* 
-<div class="results">
-            <p id="result-header">YOU LOST</p>
-            <p id="result-rule">Paper beats rock</p>
-        </div>
-        <div class="hands-area">
-            <div id="user-hand-outer">
-                <h3 class="hand-header">YOU</h3>
-                <div id="user-hand-inner">
-                    <img class="hands rock-imgs" id="user-hand" src="assets/images/rock-left.svg" alt="rock" data-type="rock">
-                </div>
-            </div>
-            <div id="computer-hand-outer">
-                <h3 class="hand-header">COMPUTER</h3>
-                <div id="computer-hand-inner">
-                    <img class="hands paper-imgs" id="computer-hand" src="assets/images/paper-right.svg" alt="rock" data-type="rock">
-                </div>
-            </div>
-        </div>
-        <div class="controls">
-            <h3 id="controls-header">CHOOSE YOUR WEAPON:</h2>
-            <button data-type="rock">ROCK</button>
-            <button data-type="paper">PAPER</button>
-            <button data-type="scissors">SCISSORS</button>
-        </div>
-*/
-
 /**
  * Main game function, called when content is loaded and user has made a choice.
  * Generates random computer choice and changes the user and computer hands based on choices 
