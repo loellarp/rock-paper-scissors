@@ -18,7 +18,9 @@ body {
 }
 
 #logo {
-    height: 200px;
+    height: 22vh;
+    max-width: 400px;
+    min-width: 130px;
 }
 
 /* Game area styling */
