@@ -181,13 +181,13 @@ button {
     margin: 0 5px;
 }
 
-button:hover {
+/*button:hover {
     background-color: #A7FFC5;
     color: black;
     border-width: 6px;
     width: 96px;
     height: 37px;
-}
+}*/
 
 button:active,
 button:focus {
