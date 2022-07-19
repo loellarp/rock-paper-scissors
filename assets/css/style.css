@@ -132,8 +132,16 @@ button {
 }
 
 button:hover {
-    background-color: #754899;
-    color: white;
+    background-color: #A7FFC5;
+    color: black;
+    border-width: 6px;
+    width: 96px;
+    height: 37px;
+}
+
+button:active {
+    background-color: #F6FFA9;
+    color: black;
 }
 
 /* Score area styling */
