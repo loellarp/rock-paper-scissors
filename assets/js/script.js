@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function() {
 function openGame() {
     let gameArea = document.getElementsByClassName("game-area");
     gameArea[0].innerHTML = `<div class="results">
-    <p id="result-header">YOU LOST</p>
-    <p id="result-rule">Paper beats rock</p>
+    <p id="result-header">LET'S GO</p>
+    <p id="result-rule">Choose your weapon</p>
 </div>
 <div class="hands-area">
     <div id="user-hand-outer">
@@ -36,7 +36,7 @@ function openGame() {
     <div id="computer-hand-outer">
         <h3 class="hand-header">COMPUTER</h3>
         <div id="computer-hand-inner">
-            <img class="hands paper-imgs" id="computer-hand" src="assets/images/paper-right.svg" alt="rock" data-type="rock">
+            <img class="hands rock-imgs" id="computer-hand" src="assets/images/rock-right.svg" alt="rock" data-type="rock">
         </div>
     </div>
 </div>

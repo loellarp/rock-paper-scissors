@@ -189,7 +189,8 @@ button:hover {
     height: 37px;
 }
 
-button:active {
+button:active,
+button:focus {
     background-color: #F6FFA9;
     color: black;
 }
