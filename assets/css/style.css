@@ -199,19 +199,26 @@ footer {
 
 /* Media queries */
 
-/* Screens 740px and below */
+/* Screens 745px high and below */
 
-@media (max-width: 740px) {
-    .game-area {
-        height: 400px;
+@media (max-height: 745px) {
+    .heading {
+        margin: 20px auto 10px;
     }
-}
-
-/* Screens 580px and below */
-
-@media (max-width: 580px) {
     .game-area {
-        height: 380px;
+        height: 370px;
+    }
+
+    .results {
+        margin: 26px auto 12 px;
+    }
+
+    .hand-header {
+        margin-block-start: 0.4em;
+    }
+
+    #controls-header {
+        padding-top: 26px;
     }
 }
 
