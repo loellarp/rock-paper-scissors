@@ -59,7 +59,7 @@ body {
 #welcome-header {
     font-size: 1.4rem;
     font-weight: bold;
-    padding-bottom: 2px;
+    padding-bottom: 7px;
     margin: 0 auto;
 }
 
@@ -246,12 +246,12 @@ footer {
 #footer-inner {
     color: black;
     background-color: rgb(167, 255, 197, .6);
-    width: 250px;
+    width: 270px;
     margin: 0 auto;
     text-align: center;
     padding-top: 3px;
     padding-bottom: 3px;
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 /* Media queries */
