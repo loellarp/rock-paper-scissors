@@ -167,6 +167,9 @@ ___
 ### Adobe Illustrator
 * As a tool to create logos and hand images
 
+### Photoshop
+* As a tool to edit the background image
+
 ### Github
 * As a software hosting platform to host the development project in a remote location
 
