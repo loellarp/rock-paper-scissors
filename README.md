@@ -6,7 +6,7 @@
 
 Summary text
 
-## [View the website live on github pages](https://loellarp.github.io/rock-paper-scissors/)
+## [View the website live on GitHub pages](https://loellarp.github.io/rock-paper-scissors/)
 ---
 
 # Table of contents
@@ -98,11 +98,11 @@ The main colors used for this website:
 
 ### Images
 
-* The background image was provided on courtisy of Zhala Rifat Pehrsson
+* The background image was provided on courtesy of Zhala Rifat Pehrsson
 * The images used for the rock, paper, and scissors hands were created in [Adobe Illustrator](www.adobe.com) on the basis of pixel icons from [Adobe Stock](www.stock.adobe.com) and are credited in the [credits](#credits) section.
 
     <img src="assets/images/rock-paper-scissors-hands.png" alt="Hand images" width="200"/>
-* The logo was created in [Adobe Illustrator](www.adobe.com) on the basis of a pixel typeface from [Adobe Stock](www.stock.adobe.com) and are credited in the [credits](#credits) section.
+* The logo was created in [Adobe Illustrator](www.adobe.com) on the basis of a pixel typeface from [Adobe Stock](www.stock.adobe.com) and is credited in the [credits](#credits) section.
 
     <img src="assets/images/rock-paper-scissors-logo.png" alt="Logo" width="400"/>
 
