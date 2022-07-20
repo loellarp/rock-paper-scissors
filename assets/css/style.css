@@ -186,7 +186,7 @@ button {
     border-style: solid;
     border-radius: 2px;
     border-color: #D814AB;
-    margin: 0 10px;
+    margin: 5px 0 10px;
 }
 
 button:active,
@@ -268,7 +268,7 @@ footer {
 
     /* Responsive styling intro screen */
     .start-btn-area {
-        padding-top: 10px;
+        padding-top: 7px;
     }
 
     /* Responsive styling game screen */
