@@ -65,13 +65,13 @@ The website is designed to...
 
 ## Wireframes
 
-I used Balsamiq Wireframes to create the initial wireframes.
+I used [Balsamiq Wireframes](https://balsamiq.com/) to create the initial wireframes.
 
 ![Mockup](assets/images/rock-paper-scissors-wireframes.png)
 
 ## Design
 
-I used Sketch to create the final design of the website and created two screens within the game area.
+I used [Sketch](https://sketch.com) to create the design of the website and created two screens within the game area.
 
 ![Design with Intro Screen](assets/images/rock-paper-scissors-design-intro-screen.png)
 
@@ -95,11 +95,11 @@ The main colors used for this website:
 
 ### Fonts
 
-* The main font used on this website is VT323 with sans-serif as backup font
+* The main font used on this website is [VT323](https://fonts.google.com/specimen/VT323) with sans-serif as backup font
 
 ### Images
 
-* The background image was provided on courtesy of Zhala Rifat Pehrsson
+* The background image was provided on courtesy of Zhala Rifat Pehrsson, Vervain AB
 * The images used for the rock, paper, and scissors hands were created in [Adobe Illustrator](www.adobe.com) on the basis of pixel icons from [Adobe Stock](www.stock.adobe.com) and are credited in the [credits](#credits) section.
 
     <img src="assets/images/rock-paper-scissors-hands.png" alt="Hand images" width="200"/>
@@ -109,6 +109,7 @@ The main colors used for this website:
 
 [Back to Table of Contents](#table-of-contents)
 ___
+
 # Features
 
 The website consists of one page with the following features:
@@ -251,8 +252,6 @@ ___
 
 * When initiating the project I used Code Institute's student template for gitpod: [Gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
-* When writing this README I used [marcin-kli/MP1 README.md](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md) as a template
-
 * Knowledge libraries:
 
     * [w3schools.com](https://www.w3schools.com)
@@ -266,6 +265,7 @@ ___
 * Hiding and unhiding divs with JavaScript: Ideas from Rebecca Timoney from Code Institute's Student Care Team 
 * Background positioning: [Stackoverflow.com](https://stackoverflow.com/questions/17722239/full-screen-background-with-cover-but-focus-on-a-part-of-the-image)
 * Double border css: [Youtube.com](https://www.youtube.com/watch?v=aEj1fu-aWbo)
+* This README: [marcin-kli/MP1 README.md](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md)
 
 ### Images
 
