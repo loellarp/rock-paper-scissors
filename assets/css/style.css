@@ -86,7 +86,7 @@ body {
 }
 
 #start-btn {
-    width: 122px;
+    width: 128px;
 }
 
 /* Game area styling for game content */
@@ -263,7 +263,7 @@ footer {
         margin: 15px auto 5px;
     }
     .game-area {
-        height: 360px;
+        height: 367px;
     }
 
     /* Responsive styling intro screen */
