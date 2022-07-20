@@ -57,7 +57,7 @@ Summary text
 
 ### As a user:
 * I want to easily find information and hints about how the game works
-* I want to be able to intuitively understand how to navigate round the game
+* I want to be able to intuitively understand how to navigate through the game
 * I want to keep track of the game to see who is winniing and loosing
 
 ## Structure of the website
@@ -202,20 +202,20 @@ The website was tested across multiple browsers (Chrome, Safari, Mozilla) on des
 ### As a business owner:
 
 - I would like to provide an easy, fun, and playful game
-    > ...
+    > The classic game of Rock, Paper, Scissors is easy to understand and have been played by many for generations. Users who have never played it before can find short instructions and visual hints with hand designs and headers. The game is presented in a old school pixel game design with a modern touch.
 - I would like the game to have a minimal but colorful design
-    > ...
+    > The game uses bright, playful and colorful design with minimal elements on the page. 
 - I would like to include elements that showcase my skills in JavaScript, HTML, and CSS
-    > ...
+    > The website contains core coding elements from HTML and CSS and showcase Javascript Essentials skills through the use of functions to listen to events on the page, generate a random computer picks for each game rund, and swap content on the screen on user interaction.
 
 ### As a user:
 
 - I want to easily find information and hints about how the game works
-    > ...
-- I want to be able to intuitively understand how to navigate round the game
-    > ...
+    > The intro screen provides the user with a brief intro to the game and its rules. The game screen provides an text screen that prompts the user to make its first move and the result of each round including the rule behind it.
+- I want to be able to intuitively understand how to navigate through the game
+    > The buttons, call to actions and headings provide simple but clear guidance to the user to move through the game
 - I want to keep track of the game to see who is winniing and loosing
-    > ...
+    > Score area increaces the scores of won, draw and lost after each round
 ___
 ## Issues found during website deployment:
 
