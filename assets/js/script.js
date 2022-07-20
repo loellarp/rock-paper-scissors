@@ -75,6 +75,7 @@ function runGame(dataType) {
     checkWinner();
 }
 
+/* Check winner and display results */
 function checkWinner() {
     let userImage = document.getElementById("user-hand");
     let computerImage = document.getElementById("computer-hand");
@@ -120,6 +121,7 @@ function checkWinner() {
     }
 }
 
+/* Increment scores won, lost, and draw */
 function incrementWon() {
     let score = parseInt(document.getElementById("won").textContent);
     document.getElementById("won").textContent = ++score;
