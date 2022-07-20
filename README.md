@@ -6,7 +6,8 @@
 
 Summary text
 
-## [View the website live on GitHub pages](https://loellarp.github.io/rock-paper-scissors/)
+## [View the website live on GitHub Pages](https://loellarp.github.io/rock-paper-scissors/)
+
 ---
 
 # Table of contents
@@ -250,6 +251,8 @@ ___
 
 * When initiating the project I used Code Institute's student template for gitpod: [Gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
+* When writing this README I used [marcin-kli/MP1 README.md](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md) as a template
+
 * Knowledge libraries:
 
     * [w3schools.com](https://www.w3schools.com)
@@ -266,16 +269,36 @@ ___
 
 ### Images
 
-* Pixel hands before editing: [AdobeStock_126948604.ai](https://stock.adobe.com/se/images/pixel-art-8-bit-hands-icons-and-gestures-signs-set/126948604?continue-checkout=1&asset_id=126948604)
-* Retro pixel typeface: [AdobeStock_268789024.ai](https://stock.adobe.com/se/images/pixel-vector-font-design-stylized-like-in-8-bit-games/268789024?asset_id=268789024)
-* Background image: By Zhala Rifat Pehrsson (not available online)
+* Pixel hands, before editing: [AdobeStock_126948604.ai](https://stock.adobe.com/se/images/pixel-art-8-bit-hands-icons-and-gestures-signs-set/126948604?continue-checkout=1&asset_id=126948604)
+* Retro pixel typeface, before editing: [AdobeStock_268789024.ai](https://stock.adobe.com/se/images/pixel-vector-font-design-stylized-like-in-8-bit-games/268789024?asset_id=268789024)
+* Background image: By Zhala Rifat Pehrsson, Vervain AB (not available online)
 
 [Back to Table of Contents](#table-of-contents)
 ___
 
 # Screenshots
 
--> Insert project screenshots 
+### Intro screen - desktop
+<img src="assets/images/intro-screen-desktop.png" alt="Intro screen desktop" width="800"/>
+
+### Intro screen - mobile
+<img src="assets/images/intro-screen-mobile.png" alt="Intro screen mobile" width="200"/>
+
+### Game screen - desktop
+<img src="assets/images/game-screen-desktop.png" alt="Game screen desktop" width="800"/>
+
+### Game screen with results - mobile
+<img src="assets/images/game-screen-mobile.png" alt="Game screen mobile" width="200"/>
+
+### Game screen with results - desktop
+<img src="assets/images/game-screen-results-desktop.png" alt="Game screen with results desktop" width="800"/>
+
+### Game screen - mobile
+<img src="assets/images/game-screen-results-mobile.png" alt="Game screen with results mobile" width="200"/>
+
+<br>
+
+## [View the website live on GitHub Pages](https://loellarp.github.io/rock-paper-scissors/)
 
 [Back to Table of Contents](#table-of-contents)
 ___
