@@ -39,29 +39,30 @@ Summary text
 
 ## Website owner business goals
 
-Insert business goals
+- To provide an easy, fun and playful game in minimal but colorful design to showcase the website owner's new JavaScript Essentials skills as well as some coding skills in HTML, CSS and Markup
 
 ## User goals
 
-- User goal 1
-- User goal 2
-- User goal 3
+- User can find information and hints about how the game works
+- User can intuitively navigate around the game through minimal design prompts
+- User can keep track of the score of the game
+- User get feedback from interacting with the game
 
 ## User stories
 
 ### As a business owner:
-* I ...
-* I ...
-* I ...
+* I would like to provide an easy, fun, and playful game
+* I would like the game to have a minimal but colorful design
+* I would like to include elements that showcase my skills in JavaScript, HTML, and CSS
 
 ### As a user:
-* I ...
-* I ...
-* I ...
+* I want to easily find information and hints about how the game works
+* I want to be able to intuitively understand how to navigate round the game
+* I want to keep track of the game to see who is winniing and loosing
 
 ## Structure of the website
 
-The website is designed to...
+The game is designed to be fun, easy to use, and provide a great experience on all device types. It is also designed to provide clear prompts and feedback from interacting with the page. 
 
 ## Wireframes
 
@@ -200,20 +201,20 @@ The website was tested across multiple browsers (Chrome, Safari, Mozilla) on des
 
 ### As a business owner:
 
-- I ...
+- I would like to provide an easy, fun, and playful game
     > ...
-- I ...
+- I would like the game to have a minimal but colorful design
     > ...
-- I ...
+- I would like to include elements that showcase my skills in JavaScript, HTML, and CSS
     > ...
 
 ### As a user:
 
-- I ...
+- I want to easily find information and hints about how the game works
     > ...
-- I ...
+- I want to be able to intuitively understand how to navigate round the game
     > ...
-- I ...
+- I want to keep track of the game to see who is winniing and loosing
     > ...
 ___
 ## Issues found during website deployment:
