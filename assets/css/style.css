@@ -73,7 +73,7 @@ body {
     padding-bottom: 2px;
     padding-top: 15px;
     margin: 0 auto;
-    color: #D814AB;
+    color: #EA32C7;
 }
 
 #rules-text {
@@ -116,7 +116,7 @@ body {
 }
 
 .hand-header {
-    color: #D814AB;
+    color: #EA32C7;
     font-size: 1.3rem;
     margin-block-start: 0.8em;
     margin-block-end: 0.8em;
@@ -185,7 +185,7 @@ button {
     border-width: 4px;
     border-style: solid;
     border-radius: 2px;
-    border-color: #D814AB;
+    border-color: #EA32C7;
     margin: 5px 0 10px;
 }
 
@@ -207,7 +207,7 @@ button:focus {
     margin: 0 auto;
     position: relative;
     border: 4px solid transparent;
-    box-shadow: inset 0 0 0 4px #D814AB;
+    box-shadow: inset 0 0 0 4px #EA32C7;
 }
 
 .score-area-inner {
@@ -220,7 +220,7 @@ button:focus {
 
 #score-header {
     font-size: 1.6em;
-    color: #D814AB;
+    color: #EA32C7;
     letter-spacing: 1px;
     margin-block-start: 0.4em;
     margin-block-end: 0.23em;
