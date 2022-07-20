@@ -189,7 +189,7 @@ I used Chrome developer tools throughout the development of the website to test 
 
 ## Compatibility testing
 
-The website was.....
+The website was tested across multiple browsers (Chrome, Safari, Mozilla) on desktop (iOS) and mobile (iPhone 11) as well as across multiple virtual mobile screens through Chrome developer tools. 
 
 ## User story testing
 
