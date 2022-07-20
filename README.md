@@ -1,10 +1,12 @@
-# Rock Paper Scissors - Online Game
+# Rock Paper Scissors - online game
 
 ## Javascript Essentials Portfolio Project
 
 ![Mockup](assets/images/rock-paper-scissors-responsive.png)
 
-Summary text
+This website is an easy and playful online game version of the classic game of chance for two - Rock, Paper, Scissors.
+
+This project is for the educational purpose of building a responsive website with HTML, CSS, and Javascript.
 
 ## [View the website live on GitHub Pages](https://loellarp.github.io/rock-paper-scissors/)
 
@@ -257,7 +259,11 @@ I used three websites to validate the code at the end of the development process
 ___
 # Deployment
 
--> Insert deployment section with steps
+The Rock Paper Scissors website was deployed on GitHub pages following the steps below:
+* In the GitHub repository for the project, locate and click on Settings
+* In the left navigation bar, locate and click on Pages
+* Under Sourse, change Branch to Main and click Save
+* This will load a message above the Source, letting you know when the website has been published including a link your your website on Pages
 
 [Back to Table of Contents](#table-of-contents)
 ___
@@ -278,7 +284,8 @@ ___
 * Hiding and unhiding divs with JavaScript: Ideas from Rebecca Timoney from Code Institute's Student Care Team 
 * Background positioning: [Stackoverflow.com](https://stackoverflow.com/questions/17722239/full-screen-background-with-cover-but-focus-on-a-part-of-the-image)
 * Double border css: [Youtube.com](https://www.youtube.com/watch?v=aEj1fu-aWbo)
-* This README: [marcin-kli/MP1 README.md](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md)
+* This README, template: [marcin-kli/MP1 README.md](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md)
+* This README, deployment section: [loellarp/ci-student-resource README.md](https://github.com/loellarp/ci-student-resource/blob/main/README.md)
 
 ### Images
 
