@@ -4,34 +4,35 @@
 	 viewBox="0 0 132.6 123.1" style="enable-background:new 0 0 132.6 123.1;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#D814AB;}
-	.st1{fill:#F2E68E;}
-	.st2{fill:#14181F;}
+	.st1{fill:#EA32C7;}
+	.st2{fill:#F2E68E;}
+	.st3{fill:#14181F;}
 </style>
 <polygon class="st0" points="131.7,45.1 131.7,54.5 123.1,54.5 122.4,54.5 122.4,45.2 122.4,45.1 "/>
 <polygon class="st0" points="131.7,17.1 131.7,26.4 123.1,26.4 122.4,26.4 122.4,17.1 122.4,17.1 "/>
 <polygon class="st0" points="131.7,9.4 131.7,17.1 122.4,17.1 122.4,9.5 122.4,9.4 "/>
-<polygon class="st0" points="123.1,63.9 123.1,63.9 122.4,63.9 113,63.9 113,54.5 123.1,54.5 "/>
-<polygon class="st0" points="123.1,37.9 123.1,37.9 122.4,37.9 113,37.9 113,35.8 113,26.5 123.1,26.5 "/>
+<polygon class="st1" points="123.1,63.9 123.1,63.9 122.4,63.9 113,63.9 113,54.5 123.1,54.5 "/>
+<polygon class="st1" points="123.1,37.9 123.1,37.9 122.4,37.9 113,37.9 113,35.8 113,26.5 123.1,26.5 "/>
 <polygon class="st0" points="123.1,37.9 131.7,37.9 131.7,45.1 122.4,45.1 122.4,37.9 122.4,37.9 "/>
 <polygon class="st0" points="122.4,82.6 122.4,82.7 113.6,82.7 113,82.7 113,73.3 122.4,73.3 "/>
 <polygon class="st0" points="122.4,73.3 122.4,73.3 113,73.3 113,63.9 122.4,63.9 "/>
-<polygon class="st0" points="122.4,54.5 123.1,54.5 123.1,54.5 113,54.5 103.6,54.5 94.3,54.5 94.3,45.2 103.6,45.2 103.6,35.8 
+<polygon class="st1" points="122.4,54.5 123.1,54.5 123.1,54.5 113,54.5 103.6,54.5 94.3,54.5 94.3,45.2 103.6,45.2 103.6,35.8 
 	113,35.8 113,37.9 122.4,37.9 122.4,37.9 122.4,45.1 122.4,45.2 "/>
-<polygon class="st0" points="122.4,26.4 123.1,26.4 123.1,26.5 113,26.5 103.6,26.5 103.6,17.1 103.6,9.4 113,9.4 122.4,9.4 
+<polygon class="st1" points="122.4,26.4 123.1,26.4 123.1,26.5 113,26.5 103.6,26.5 103.6,17.1 103.6,9.4 113,9.4 122.4,9.4 
 	122.4,9.5 122.4,17.1 122.4,17.1 "/>
 <polygon class="st0" points="122.4,9.4 122.4,9.4 113,9.4 113,0 122.4,0 "/>
-<polygon class="st0" points="113.6,82.7 113.6,92 113,92 103.6,92 103.6,82.7 113,82.7 "/>
+<polygon class="st1" points="113.6,82.7 113.6,92 113,92 103.6,92 103.6,82.7 113,82.7 "/>
 <polygon class="st0" points="113,101.4 113,110.8 103.9,110.8 103.6,110.8 103.6,101.4 "/>
 <rect x="103.6" y="92" class="st0" width="9.4" height="9.4"/>
-<polygon class="st0" points="113,73.3 113,82.7 103.6,82.7 94.3,82.7 84.9,82.7 75.6,82.7 75.6,73.3 75.6,63.9 84.9,63.9 94.3,63.9 
+<polygon class="st1" points="113,73.3 113,82.7 103.6,82.7 94.3,82.7 84.9,82.7 75.6,82.7 75.6,73.3 75.6,63.9 84.9,63.9 94.3,63.9 
 	103.6,63.9 113,63.9 "/>
-<rect x="103.6" y="54.5" class="st0" width="9.4" height="9.4"/>
+<rect x="103.6" y="54.5" class="st1" width="9.4" height="9.4"/>
 <rect x="103.6" y="26.5" class="st0" width="9.4" height="9.4"/>
 <polygon class="st0" points="113,0 113,9.4 103.6,9.4 103.6,7.7 103.6,0 "/>
-<polygon class="st0" points="103.9,110.8 103.9,120.2 94.3,120.2 94.3,110.8 103.6,110.8 "/>
-<polygon class="st0" points="103.6,101.4 103.6,110.8 94.3,110.8 84.9,110.8 75.6,110.8 75.6,101.4 75.6,92 84.9,92 94.3,92 
+<polygon class="st1" points="104.2,110.7 104.2,120.3 94.3,120.3 94.3,110.7 103.9,110.7 "/>
+<polygon class="st1" points="103.6,101.4 103.6,110.8 94.3,110.8 84.9,110.8 75.6,110.8 75.6,101.4 75.6,92 84.9,92 94.3,92 
 	103.6,92 "/>
-<rect x="94.3" y="82.7" class="st0" width="9.4" height="9.4"/>
+<rect x="94.3" y="82.7" class="st1" width="9.4" height="9.4"/>
 <rect x="94.3" y="54.5" class="st0" width="9.4" height="9.4"/>
 <rect x="94.3" y="35.8" class="st0" width="9.4" height="9.3"/>
 <rect x="94.3" y="26.5" class="st0" width="9.4" height="9.4"/>
@@ -39,11 +40,11 @@
 <rect x="94.3" y="9.4" class="st0" width="9.4" height="7.7"/>
 <rect x="94.3" y="7.7" class="st0" width="9.4" height="1.7"/>
 <rect x="94.3" class="st0" width="9.4" height="7.7"/>
-<rect x="84.9" y="110.8" class="st0" width="9.4" height="9.4"/>
-<rect x="84.9" y="82.7" class="st0" width="9.4" height="9.4"/>
+<rect x="84.9" y="110.8" class="st1" width="9.4" height="9.4"/>
+<rect x="84.9" y="82.7" class="st1" width="9.4" height="9.4"/>
 <rect x="84.9" y="54.5" class="st0" width="9.4" height="9.4"/>
-<rect x="84.9" y="45.2" class="st0" width="9.4" height="9.4"/>
-<polygon class="st0" points="94.3,35.8 94.3,45.2 84.9,45.2 75.6,45.2 75.6,35.8 75.6,26.5 66.2,26.5 56.9,26.5 56.9,35.8 
+<rect x="84.9" y="45.2" class="st1" width="9.4" height="9.4"/>
+<polygon class="st1" points="94.3,35.8 94.3,45.2 84.9,45.2 75.6,45.2 75.6,35.8 75.6,26.5 66.2,26.5 56.9,26.5 56.9,35.8 
 	47.5,35.8 47.5,45.2 38.2,45.2 28.8,45.2 19.5,45.2 19.5,54.5 28.8,54.5 38.2,54.5 47.5,54.5 47.5,45.2 56.9,45.2 56.9,35.8 
 	66.2,35.8 66.2,45.2 75.6,45.2 75.6,54.5 75.6,63.9 66.2,63.9 66.2,73.3 66.2,82.7 75.6,82.7 75.6,92 66.2,92 66.2,101.4 
 	66.2,110.8 56.9,110.8 47.5,110.8 38.2,110.8 28.8,110.8 19.5,110.8 19.5,101.4 10.1,101.4 10.1,92 10.1,82.7 10.1,73.3 10.1,63.9 
@@ -57,26 +58,26 @@
 <rect x="75.6" class="st0" width="9.3" height="9.4"/>
 <rect x="66.2" y="110.8" class="st0" width="9.4" height="9.4"/>
 <rect x="66.2" y="101.4" class="st0" width="9.4" height="9.4"/>
-<rect x="66.2" y="92" class="st0" width="9.4" height="9.4"/>
+<rect x="66.2" y="92" class="st1" width="9.4" height="9.4"/>
 <rect x="66.2" y="73.3" class="st0" width="9.4" height="9.4"/>
-<rect x="66.2" y="63.9" class="st0" width="9.4" height="9.4"/>
+<rect x="66.2" y="63.9" class="st1" width="9.4" height="9.4"/>
 <rect x="66.2" y="35.8" class="st0" width="9.4" height="9.3"/>
-<rect x="66.2" y="26.5" class="st0" width="9.4" height="9.4"/>
+<rect x="66.2" y="26.5" class="st1" width="9.4" height="9.4"/>
 <rect x="66.2" class="st0" width="9.4" height="9.4"/>
-<rect x="56.9" y="110.8" class="st0" width="9.3" height="9.4"/>
-<rect x="56.9" y="26.5" class="st0" width="9.3" height="9.4"/>
+<rect x="56.9" y="110.8" class="st1" width="9.3" height="9.4"/>
+<rect x="56.9" y="26.5" class="st1" width="9.3" height="9.4"/>
 <rect x="56.9" class="st0" width="9.3" height="9.4"/>
-<rect x="47.5" y="110.8" class="st0" width="9.4" height="9.4"/>
-<rect x="47.5" y="35.8" class="st0" width="9.4" height="9.3"/>
+<rect x="47.5" y="110.8" class="st1" width="9.4" height="9.4"/>
+<rect x="47.5" y="35.8" class="st1" width="9.4" height="9.3"/>
 <rect x="47.5" class="st0" width="9.4" height="9.4"/>
-<rect x="38.2" y="110.8" class="st0" width="9.4" height="9.4"/>
-<rect x="38.2" y="45.2" class="st0" width="9.4" height="9.4"/>
+<rect x="38.2" y="110.8" class="st1" width="9.4" height="9.4"/>
+<rect x="38.2" y="45.2" class="st1" width="9.4" height="9.4"/>
 <rect x="38.2" class="st0" width="9.4" height="9.4"/>
-<rect x="28.8" y="110.8" class="st0" width="9.4" height="9.4"/>
-<rect x="28.8" y="45.2" class="st0" width="9.4" height="9.4"/>
+<rect x="28.8" y="110.8" class="st1" width="9.4" height="9.4"/>
+<rect x="28.8" y="45.2" class="st1" width="9.4" height="9.4"/>
 <rect x="28.8" class="st0" width="9.4" height="9.4"/>
 <rect x="19.5" y="110.8" class="st0" width="9.4" height="9.4"/>
-<rect x="19.5" y="45.2" class="st0" width="9.4" height="9.4"/>
+<rect x="19.5" y="45.2" class="st1" width="9.4" height="9.4"/>
 <rect x="19.5" class="st0" width="9.4" height="9.4"/>
 <rect x="10.1" y="101.4" class="st0" width="9.4" height="9.4"/>
 <polygon class="st0" points="19.5,9.5 19.5,19.7 10.1,19.7 10.1,18.9 10.1,9.5 "/>
@@ -89,95 +90,95 @@
 <rect x="0.7" y="35.8" class="st0" width="9.4" height="9.3"/>
 <rect x="0.7" y="26.5" class="st0" width="9.4" height="9.4"/>
 <polygon class="st0" points="10.1,19.7 10.1,26.5 0.7,26.5 0.7,18.9 10.1,18.9 "/>
-<rect x="19.1" y="104.4" class="st1" width="9.4" height="9.5"/>
-<rect x="75.7" y="104.4" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="94.9" class="st1" width="9.4" height="9.5"/>
-<rect x="75.7" y="94.9" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="85.4" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="75.9" class="st1" width="9.4" height="9.5"/>
-<rect x="75.7" y="75.9" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="66.4" class="st1" width="9.4" height="9.5"/>
-<rect x="75.7" y="66.4" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="56.9" class="st1" width="9.4" height="9.5"/>
-<rect x="87.1" y="55.9" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="47.4" class="st1" width="9.4" height="9.5"/>
-<rect x="47.4" y="47.4" class="st1" width="9.4" height="9.5"/>
-<rect x="94.5" y="47.4" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="37.9" class="st1" width="9.4" height="9.5"/>
-<rect x="56.8" y="37.9" class="st1" width="9.4" height="9.5"/>
-<rect x="75.7" y="37.9" class="st1" width="9.4" height="9.5"/>
-<rect x="103.9" y="37.9" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="28.4" class="st1" width="9.4" height="9.5"/>
-<rect x="75.7" y="28.4" class="st1" width="9.4" height="9.5"/>
-<rect x="9.7" y="18.9" class="st1" width="9.4" height="9.5"/>
-<rect x="103.9" y="18.9" class="st1" width="9.4" height="9.5"/>
-<rect x="19.1" y="9.4" class="st1" width="9.4" height="9.5"/>
-<rect x="103.9" y="9.4" class="st1" width="9.4" height="9.5"/>
-<rect x="19" y="113.6" class="st2" width="9.5" height="9.5"/>
-<rect x="28.4" y="113.6" class="st2" width="9.5" height="9.5"/>
-<rect x="37.9" y="113.6" class="st2" width="9.5" height="9.5"/>
-<rect x="47.4" y="113.6" class="st2" width="9.5" height="9.5"/>
-<rect x="56.8" y="113.6" class="st2" width="9.5" height="9.5"/>
-<rect x="66.3" y="113.6" class="st2" width="9.5" height="9.5"/>
-<rect x="75.8" y="113.6" class="st2" width="9.4" height="9.5"/>
-<rect x="85.2" y="113.6" class="st2" width="9.5" height="9.5"/>
-<rect x="94.7" y="113.6" class="st2" width="9.5" height="9.5"/>
-<rect x="9.5" y="104.1" class="st2" width="9.5" height="9.5"/>
-<rect x="66.3" y="104.1" class="st2" width="9.5" height="9.5"/>
-<rect x="104.2" y="104.1" class="st2" width="9.5" height="9.5"/>
-<rect y="94.7" class="st2" width="9.5" height="9.5"/>
-<rect x="66.3" y="94.7" class="st2" width="9.5" height="9.5"/>
-<rect x="104.2" y="94.7" class="st2" width="9.5" height="9.5"/>
-<rect y="85.2" class="st2" width="9.5" height="9.5"/>
-<rect x="75.8" y="85.2" class="st2" width="9.4" height="9.5"/>
-<rect x="85.2" y="85.2" class="st2" width="9.5" height="9.5"/>
-<rect x="94.7" y="85.2" class="st2" width="9.5" height="9.5"/>
-<rect x="104.2" y="85.2" class="st2" width="9.5" height="9.5"/>
-<rect y="75.7" class="st2" width="9.5" height="9.5"/>
-<rect x="66.3" y="75.7" class="st2" width="9.5" height="9.5"/>
-<polygon class="st2" points="123.1,85.2 113.6,85.2 113.6,75.7 123.1,75.7 "/>
-<rect y="66.3" class="st2" width="9.5" height="9.5"/>
-<rect x="66.3" y="66.3" class="st2" width="9.5" height="9.5"/>
-<polygon class="st2" points="123.1,75.7 123.1,75.7 113.6,75.7 113.6,66.3 123.1,66.3 "/>
-<rect y="56.8" class="st2" width="9.5" height="9.5"/>
-<rect x="75.8" y="56.8" class="st2" width="9.4" height="9.5"/>
-<rect x="85.2" y="56.8" class="st2" width="9.5" height="9.5"/>
-<rect x="94.7" y="56.8" class="st2" width="9.5" height="9.5"/>
-<rect x="104.2" y="56.8" class="st2" width="9.5" height="9.5"/>
-<polygon class="st2" points="123.1,66.3 113.6,66.3 113.6,56.8 123.1,56.8 123.1,66.2 "/>
-<rect y="47.3" class="st2" width="9.5" height="9.5"/>
-<rect x="19" y="47.3" class="st2" width="9.5" height="9.5"/>
-<rect x="28.4" y="47.3" class="st2" width="9.5" height="9.5"/>
-<rect x="37.9" y="47.3" class="st2" width="9.5" height="9.5"/>
-<rect x="75.8" y="47.3" class="st2" width="9.4" height="9.5"/>
-<rect x="85.2" y="47.3" class="st2" width="9.5" height="9.5"/>
-<polygon class="st2" points="132.6,56.8 123.1,56.8 123.1,47.3 123.1,47.3 132.6,47.3 "/>
-<rect y="37.9" class="st2" width="9.5" height="9.4"/>
-<rect x="47.4" y="37.9" class="st2" width="9.5" height="9.4"/>
-<rect x="66.3" y="37.9" class="st2" width="9.5" height="9.4"/>
-<rect x="94.7" y="37.9" class="st2" width="9.5" height="9.4"/>
-<polygon class="st2" points="132.6,47.3 123.1,47.3 123.1,37.9 123.1,37.9 132.6,37.9 "/>
-<rect y="28.4" class="st2" width="9.5" height="9.5"/>
-<rect x="56.8" y="28.4" class="st2" width="9.5" height="9.5"/>
-<rect x="66.3" y="28.4" class="st2" width="9.5" height="9.5"/>
-<rect x="94.7" y="28.4" class="st2" width="9.5" height="9.5"/>
-<rect x="104.2" y="28.4" class="st2" width="9.5" height="9.5"/>
-<polygon class="st2" points="123.1,37.9 113.6,37.9 113.6,28.4 123.1,28.4 "/>
-<rect y="19" class="st2" width="9.5" height="9.4"/>
-<rect x="94.7" y="19" class="st2" width="9.5" height="9.4"/>
-<polygon class="st2" points="132.6,28.4 123.1,28.4 123.1,19 123.1,19 132.6,19 "/>
-<rect x="9.5" y="9.5" class="st2" width="9.5" height="9.5"/>
-<rect x="94.7" y="9.5" class="st2" width="9.5" height="9.5"/>
-<polygon class="st2" points="132.6,19 123.1,19 123.1,9.5 123.1,9.5 132.6,9.5 "/>
-<rect x="19" class="st2" width="9.5" height="9.5"/>
-<rect x="28.4" class="st2" width="9.5" height="9.5"/>
-<rect x="37.9" class="st2" width="9.5" height="9.5"/>
-<rect x="47.4" class="st2" width="9.5" height="9.5"/>
-<rect x="56.8" class="st2" width="9.5" height="9.5"/>
-<rect x="66.3" class="st2" width="9.5" height="9.5"/>
-<rect x="75.8" class="st2" width="9.4" height="9.5"/>
-<rect x="85.2" class="st2" width="9.5" height="9.5"/>
-<rect x="94.7" class="st2" width="9.5" height="9.5"/>
-<rect x="104.2" class="st2" width="9.5" height="9.5"/>
-<polygon class="st2" points="123.1,9.5 113.6,9.5 113.6,0 123.1,0 "/>
+<rect x="19.1" y="104.4" class="st2" width="9.4" height="9.5"/>
+<rect x="75.7" y="104.4" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="94.9" class="st2" width="9.4" height="9.5"/>
+<rect x="75.7" y="94.9" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="85.4" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="75.9" class="st2" width="9.4" height="9.5"/>
+<rect x="75.7" y="75.9" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="66.4" class="st2" width="9.4" height="9.5"/>
+<rect x="75.7" y="66.4" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="56.9" class="st2" width="9.4" height="9.5"/>
+<rect x="87.1" y="55.9" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="47.4" class="st2" width="9.4" height="9.5"/>
+<rect x="47.4" y="47.4" class="st2" width="9.4" height="9.5"/>
+<rect x="94.5" y="47.4" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="37.9" class="st2" width="9.4" height="9.5"/>
+<rect x="56.8" y="37.9" class="st2" width="9.4" height="9.5"/>
+<rect x="75.7" y="37.9" class="st2" width="9.4" height="9.5"/>
+<rect x="103.9" y="37.9" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="28.4" class="st2" width="9.4" height="9.5"/>
+<rect x="75.7" y="28.4" class="st2" width="9.4" height="9.5"/>
+<rect x="9.7" y="18.9" class="st2" width="9.4" height="9.5"/>
+<rect x="103.9" y="18.9" class="st2" width="9.4" height="9.5"/>
+<rect x="19.1" y="9.4" class="st2" width="9.4" height="9.5"/>
+<rect x="103.9" y="9.4" class="st2" width="9.4" height="9.5"/>
+<rect x="19" y="113.6" class="st3" width="9.5" height="9.5"/>
+<rect x="28.4" y="113.6" class="st3" width="9.5" height="9.5"/>
+<rect x="37.9" y="113.6" class="st3" width="9.5" height="9.5"/>
+<rect x="47.4" y="113.6" class="st3" width="9.5" height="9.5"/>
+<rect x="56.8" y="113.6" class="st3" width="9.5" height="9.5"/>
+<rect x="66.3" y="113.6" class="st3" width="9.5" height="9.5"/>
+<rect x="75.8" y="113.6" class="st3" width="9.4" height="9.5"/>
+<rect x="85.2" y="113.6" class="st3" width="9.5" height="9.5"/>
+<rect x="94.7" y="113.6" class="st3" width="9.5" height="9.5"/>
+<rect x="9.5" y="104.1" class="st3" width="9.5" height="9.5"/>
+<rect x="66.3" y="104.1" class="st3" width="9.5" height="9.5"/>
+<rect x="104.2" y="104.1" class="st3" width="9.5" height="9.5"/>
+<rect y="94.7" class="st3" width="9.5" height="9.5"/>
+<rect x="66.3" y="94.7" class="st3" width="9.5" height="9.5"/>
+<rect x="104.2" y="94.7" class="st3" width="9.5" height="9.5"/>
+<rect y="85.2" class="st3" width="9.5" height="9.5"/>
+<rect x="75.8" y="85.2" class="st3" width="9.4" height="9.5"/>
+<rect x="85.2" y="85.2" class="st3" width="9.5" height="9.5"/>
+<rect x="94.7" y="85.2" class="st3" width="9.5" height="9.5"/>
+<rect x="104.2" y="85.2" class="st3" width="9.5" height="9.5"/>
+<rect y="75.7" class="st3" width="9.5" height="9.5"/>
+<rect x="66.3" y="75.7" class="st3" width="9.5" height="9.5"/>
+<polygon class="st3" points="123.1,85.2 113.6,85.2 113.6,75.7 123.1,75.7 "/>
+<rect y="66.3" class="st3" width="9.5" height="9.5"/>
+<rect x="66.3" y="66.3" class="st3" width="9.5" height="9.5"/>
+<polygon class="st3" points="123.1,75.7 123.1,75.7 113.6,75.7 113.6,66.3 123.1,66.3 "/>
+<rect y="56.8" class="st3" width="9.5" height="9.5"/>
+<rect x="75.8" y="56.8" class="st3" width="9.4" height="9.5"/>
+<rect x="85.2" y="56.8" class="st3" width="9.5" height="9.5"/>
+<rect x="94.7" y="56.8" class="st3" width="9.5" height="9.5"/>
+<rect x="104.2" y="56.8" class="st3" width="9.5" height="9.5"/>
+<polygon class="st3" points="123.1,66.3 113.6,66.3 113.6,56.8 123.1,56.8 123.1,66.2 "/>
+<rect y="47.3" class="st3" width="9.5" height="9.5"/>
+<rect x="19" y="47.3" class="st3" width="9.5" height="9.5"/>
+<rect x="28.4" y="47.3" class="st3" width="9.5" height="9.5"/>
+<rect x="37.9" y="47.3" class="st3" width="9.5" height="9.5"/>
+<rect x="75.8" y="47.3" class="st3" width="9.4" height="9.5"/>
+<rect x="85.2" y="47.3" class="st3" width="9.5" height="9.5"/>
+<polygon class="st3" points="132.6,56.8 123.1,56.8 123.1,47.3 123.1,47.3 132.6,47.3 "/>
+<rect y="37.9" class="st3" width="9.5" height="9.4"/>
+<rect x="47.4" y="37.9" class="st3" width="9.5" height="9.4"/>
+<rect x="66.3" y="37.9" class="st3" width="9.5" height="9.4"/>
+<rect x="94.7" y="37.9" class="st3" width="9.5" height="9.4"/>
+<polygon class="st3" points="132.6,47.3 123.1,47.3 123.1,37.9 123.1,37.9 132.6,37.9 "/>
+<rect y="28.4" class="st3" width="9.5" height="9.5"/>
+<rect x="56.8" y="28.4" class="st3" width="9.5" height="9.5"/>
+<rect x="66.3" y="28.4" class="st3" width="9.5" height="9.5"/>
+<rect x="94.7" y="28.4" class="st3" width="9.5" height="9.5"/>
+<rect x="104.2" y="28.4" class="st3" width="9.5" height="9.5"/>
+<polygon class="st3" points="123.1,37.9 113.6,37.9 113.6,28.4 123.1,28.4 "/>
+<rect y="19" class="st3" width="9.5" height="9.4"/>
+<rect x="94.7" y="19" class="st3" width="9.5" height="9.4"/>
+<polygon class="st3" points="132.6,28.4 123.1,28.4 123.1,19 123.1,19 132.6,19 "/>
+<rect x="9.5" y="9.5" class="st3" width="9.5" height="9.5"/>
+<rect x="94.7" y="9.5" class="st3" width="9.5" height="9.5"/>
+<polygon class="st3" points="132.6,19 123.1,19 123.1,9.5 123.1,9.5 132.6,9.5 "/>
+<rect x="19" class="st3" width="9.5" height="9.5"/>
+<rect x="28.4" class="st3" width="9.5" height="9.5"/>
+<rect x="37.9" class="st3" width="9.5" height="9.5"/>
+<rect x="47.4" class="st3" width="9.5" height="9.5"/>
+<rect x="56.8" class="st3" width="9.5" height="9.5"/>
+<rect x="66.3" class="st3" width="9.5" height="9.5"/>
+<rect x="75.8" class="st3" width="9.4" height="9.5"/>
+<rect x="85.2" class="st3" width="9.5" height="9.5"/>
+<rect x="94.7" class="st3" width="9.5" height="9.5"/>
+<rect x="104.2" class="st3" width="9.5" height="9.5"/>
+<polygon class="st3" points="123.1,9.5 113.6,9.5 113.6,0 123.1,0 "/>
 </svg>
