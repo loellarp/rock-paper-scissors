@@ -62,7 +62,7 @@ Summary text
 
 ## Structure of the website
 
-The game is designed to be fun, easy to use, and provide a great experience on all device types. It is also designed to provide clear prompts and feedback from interacting with the page. 
+The game is designed to be fun, easy to use, and provide a great experience on all device types. It is also designed to provide clear call to actions and feedback from interacting with the page. 
 
 ## Wireframes
 
@@ -74,16 +74,18 @@ I used [Balsamiq Wireframes](https://balsamiq.com/) to create the initial wirefr
 
 I used [Sketch](https://sketch.com) to create the design of the website and created two screens within the game area.
 
-![Design with Intro Screen](assets/images/rock-paper-scissors-design-intro-screen.png)
+### Designs for intro screen - desktop and mobile
+![Design for Intro Screen](assets/images/rock-paper-scissors-design-intro-screen.png)
 
-![Design with Game Screen](assets/images/rock-paper-scissors-design-game-screen.png)
+### Designs for intro screen - desktop and mobile
+![Design for Game Screen](assets/images/rock-paper-scissors-design-game-screen.png)
 
 ## Surface
 
 ### Colors
 The main colors used for this website:
-* Background color: #653E85
-* Font color: Black
+* Fallback background color body: #302F2F
+* Main font color: Black
 * Game area background color: #A7FFC5
 * Game area text box background color: #F6FFA9
 * Game area border color: Black
@@ -219,9 +221,19 @@ The website was tested across multiple browsers (Chrome, Safari, Mozilla) on des
 ___
 ## Issues found during website deployment:
 
-* ...
-* ...
-* ...
+### Mobile bugs:
+
+I found two last minute bugs when testing on iPhone 11 (iOS 15.5 - Safari, Chrome, Firefox) after deployment:
+
+<img src="assets/images/mobile-bugs.png" alt="Mobile bugs" width="300"/>
+
+* #### Start game button text does not fit the button container on iPhone 11 (all browsers)
+    > Can't replicate bug on iPhone 12 or through Chrome Developer Tools
+    > Did not have time to fix this bug before project submission.
+
+* #### Background image not displaying at the top of the screen (clock and status bars) on iPhone 11
+    > Placeholder background color displaying instead
+    > Did not have time to research a fix for the image to cover the whole screen but did a quick fix by adjusting the background color to a darker and less distracting color (#302F2F).
 
 ## Performance testing
 
