@@ -59,6 +59,7 @@ This website is an easy and playful online game version of the classic game of c
 * I want to easily find information and hints about how the game works
 * I want to be able to intuitively understand how to navigate through the game
 * I want to keep track of the game to see who is winniing and loosing and when it is a draw
+* I want to recieve feedback from the game when I interact with it
 
 ## Structure of the website
 
@@ -217,7 +218,10 @@ The website was tested across multiple browsers (Chrome, Safari, Mozilla) on des
 - I want to be able to intuitively understand how to navigate through the game.
     > The buttons, call to actions and headings provide simple but clear guidance to the user on how to move through the game.
 - I want to keep track of the game to see who is winning and loosing and when it is a draw.
-    > Score area increaces the scores of won, draw and lost after each round.
+    > The score area functions increaces the scores of won, draw and lost after each round.
+- I want to recieve feedback from the game when I interact with it.
+    > The messages in the result area provides feedback on each round and button click styling gives the user feedback on their interaction with the buttons.
+
 ___
 ## Issues found during website deployment:
 
